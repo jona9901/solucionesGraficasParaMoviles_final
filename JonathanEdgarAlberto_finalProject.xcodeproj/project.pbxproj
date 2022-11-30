@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FB59FB462937C237008501C3 /* JonathanEdgarAlberto_finalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JonathanEdgarAlberto_finalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB59FB462937C237008501C3 /* QR Generator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "QR Generator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB59FB492937C237008501C3 /* JonathanEdgarAlberto_finalProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JonathanEdgarAlberto_finalProjectApp.swift; sourceTree = "<group>"; };
 		FB59FB4B2937C237008501C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FB59FB4D2937C239008501C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		FB59FB472937C237008501C3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FB59FB462937C237008501C3 /* JonathanEdgarAlberto_finalProject.app */,
+				FB59FB462937C237008501C3 /* QR Generator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = JonathanEdgarAlberto_finalProject;
 			productName = JonathanEdgarAlberto_finalProject;
-			productReference = FB59FB462937C237008501C3 /* JonathanEdgarAlberto_finalProject.app */;
+			productReference = FB59FB462937C237008501C3 /* QR Generator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -282,7 +282,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "up.JonathanEdgarAlberto-finalProject";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "QR Generator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,7 +310,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "up.JonathanEdgarAlberto-finalProject";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "QR Generator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
